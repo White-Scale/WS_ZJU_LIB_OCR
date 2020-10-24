@@ -1,5 +1,6 @@
-# WS_ZJU_LIB_OCR
-![image]https://github.com/White-Scale/WS_ZJU_LIB_OCR/blob/main/title_logo.jpg
+# WS_ZJU_LIB_OCR 浙大图书馆验证码自动识别插件
+a simple ocr tool of ZJU library login checkpic auto fill；自动获取并识别浙大图书馆系统的验证码并识别  
+![image](https://github.com/White-Scale/WS_ZJU_LIB_OCR/blob/main/title_logo.jpg)  
 ##in English  
 ###Background  
 the very first reason to build this program is from my roommate  
