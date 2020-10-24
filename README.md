@@ -1,11 +1,11 @@
 # WS_ZJU_LIB_OCR 浙大图书馆验证码自动识别插件
 a simple ocr tool of ZJU library login checkpic auto fill；自动获取并识别浙大图书馆系统的验证码并识别  
 ![image](https://github.com/White-Scale/WS_ZJU_LIB_OCR/blob/main/title_logo.jpg)  
-##in English  
-###Background  
+## in English  
+### Background  
 the very first reason to build this program is from my roommate  
 but it's finished by myself instead of in a cooperation with him at last;
-###Brief Introduction  
+### Brief Introduction  
 in this extention of chrome,I used JQuery to track elements like a button;  
 and store the dynamic verify picture in local storage form sever via cavnas;  
 then transform it into an array to processing and  
@@ -13,11 +13,11 @@ seperate it into 4 pieces to get a feature of every single number picture to rec
 but an important thing is that the algorithm need to be optimized cause  there's still a lack of tracking and spin；  
 thank you for your visit at this page! 
 by White Scale  
-##中文 
-###背景
+## 中文 
+### 背景
 起因是室友提出的图书馆验证码构造简单（确实如此）  
 本想合作一起完成，最后还是各做各的； 
-###简介
+### 简介
 使用jQuery对网页中按钮进行追踪；  
 使用cavnas画板实现服务器中动态变化的图片的本地保存以及二值化；  
 以数组的形式进行数据处理分析；  
